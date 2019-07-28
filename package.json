@@ -1,0 +1,30 @@
+{
+  "name": "myan-num",
+  "version": "0.0.1",
+  "description": "english-myanmar number converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinSiThu/myan-num.git"
+  },
+  "keywords": [
+    "myanmar",
+    "unicode",
+    "english",
+    "number",
+    "converter",
+    "maths"
+  ],
+  "author": "min si thu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MinSiThu/myan-num/issues"
+  },
+  "homepage": "https://github.com/MinSiThu/myan-num#readme",
+  "devDependencies": {
+    "path": "^0.12.7"
+  }
+}
