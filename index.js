@@ -30,4 +30,7 @@ convertToEnglish = (number)=>{
     return outputArrays.join("");
 }
 
-console.log(convertToEnglish("100 ၁၀"));
+module.exports = {
+    convertToEnglish,
+    convertToMyanmar,
+}
